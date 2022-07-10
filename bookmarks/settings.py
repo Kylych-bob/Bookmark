@@ -40,10 +40,12 @@ INSTALLED_APPS = [
 
     # App
     'account.apps.AccountConfig',
+    'images.apps.ImagesConfig',
     # Social authentication to site
     'social_django',
     # HTTPS 132 page
     'django_extensions'
+
 ]
 
 MIDDLEWARE = [
