@@ -45,8 +45,8 @@ INSTALLED_APPS = [
     'social_django',
     # HTTPS 132 page
     'django_extensions',
-    # 'easy_thumbnails'
     'easy_thumbnails'
+
 ]
 
 MIDDLEWARE = [
